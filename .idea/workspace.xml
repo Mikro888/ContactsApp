@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6a7dc46-a0a2-4d5f-a526-feb3d4b36857" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Documents.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/.idea/scrimba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/About.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/Card.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/Content.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/Info.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/images/mainImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scrimba/scr1/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/snake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/food.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/snake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/.idea/todo-by-mikhail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/FullInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src-main/todolist.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/components/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/components/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/components/EditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/components/TodoList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/state/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/state/task-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo-by-mikhail/src/state/todolist-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../3d/.idea/3d.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeWars/.idea/CodeWars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/.idea/cars_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/api/unsplash.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/components/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/components/ImageCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/components/SearchBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/components/imageList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/components/imageList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cars_search/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/.idea/it-incubator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/JS Lessons/.idea/JS Lessons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/KKP/.idea/kpp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/KKP/src/Components/Counter/Counter.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/KKP/src/Components/react-memo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/OnlineCourse/it-incubator-todolist-ts-01/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/OnlineCourse/it-incubator-todolist-ts-01/src/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/OnlineCourse/it-incubator-todolist-ts-01/src/EditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/OnlineCourse/it-incubator-todolist-ts-01/src/State/todolists-reducer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/OnlineCourse/it-incubator-todolist-ts-01/src/State/todolists-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/OnlineCourse/it-incubator-todolist-ts-01/src/todoList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/.idea/ToDoLastThusday.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/clover.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/coverage-final.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/block-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/sort-arrow-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/sorter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/AddItemForm.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/App.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/EditableSpan.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/Todolist.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/index.tsx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/serviceWorker.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/state/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/state/tasks-reducer.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/state/todolists-reducer.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov-report/src/state/user-reducer.ts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/coverage/lcov.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/reducers/FilterReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/reducers/TaskReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-1/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/api/todolists-api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/app-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/app/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/app/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/app/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/components/AddItemForm/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/components/EditableSpan/EditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/components/ErrorSnack/ErrorSnackbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/features/TodolistsList/Todolist/Task/Task.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/features/TodolistsList/Todolist/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/features/TodolistsList/TodolistsList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/features/TodolistsList/tasks-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/features/TodolistsList/todolists-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-15/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/EditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/state/tasks-reducer.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/state/tasks-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/state/todolists-reducer.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/state/todolists-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/state/user-reducer.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-2/state/user-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/reducers/TaskReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src-3/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/api/todolists-api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/app/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/app/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/app/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/components/AddItemForm/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/components/EditableSpan/EditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/features/TodolistsList/Todolist/Task/Task.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/features/TodolistsList/Todolist/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/features/TodolistsList/TodolistsList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/features/TodolistsList/tasks-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/features/TodolistsList/todolists-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/ToDoLastThusday 2/.idea/ToDoLastThusday.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/exam1/exam/.idea/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/exam1/exam/src/AppWithRedux.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/exam1/exam/src/Button/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/exam1/exam/src/ControlPanel/InputDisplay.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/exam1/exam/src/ControlPanel/SetButtonPanel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/exam1/exam/src/ControlPanel/SetterBody.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/exam1/exam/src/Counter/CounterBody.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/myignat_ne_to/.idea/myIgnat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/native/.idea/native.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/native/deep_copy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/.idea/storybook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/src/Components/Accordion/Accordion.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/src/Components/OnOff/OnOff.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/src/Components/OnOff/OnOff.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/src/Components/PromisesTraining/PromisesTrain.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/src/Components/Rating/Rating.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/src/Components/UncontrolledOnOff/UncontrolledOnOff.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/src/Components/UncontrolledOnOff/UncontrolledOnOff.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/src/Components/UncontrolledRating/UncontrolledRating.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/storybook/src/Components/hoc/hoc.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/temp/.idea/temp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/temp/my-app/.idea/my-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/temp/my-app/src/Components/Accordion/Accordion.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/temp/my-app/src/Components/OnOff/OnOff.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/temp/my-app/src/Components/OnOff/OnOff.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/temp/my-app/src/Components/Rating/Rating.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/temp/my-app/src/Components/UncontrolledOnOff/UncontrolledOnOff.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/temp/my-app/src/Components/UncontrolledOnOff/UncontrolledOnOff.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/temp/my-app/src/Components/UncontrolledRating/UncontrolledRating.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todo13v2/.idea/todo13v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/.idea/todoFromScratch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/.storybook/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/.storybook/preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/EditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/state/todolists-reducer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/state/todolists-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/state/user-reducer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-1/state/user-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/EditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/Task.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/state/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/state/tasks-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-16/state/todolists-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/EditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-3/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/AppWithReducer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/AppWithRedux.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/EditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/Task.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/state/ todolists-tasks-reducer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/state/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/state/tasks-reducer.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/state/tasks-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/state/todolists-reducer.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/state/todolists-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/Button.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/Header.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/Introduction.stories.mdx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/Page.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/Page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/assets/code-brackets.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/assets/colors.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/assets/comments.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/assets/direction.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/assets/flow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/assets/plugin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/assets/repo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/assets/stackalt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src-8/stories/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/api/todolists-api.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/app-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/app/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/app/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/app/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/features/TodolistsList/Todolist/Task/Task.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/features/TodolistsList/Todolist/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/features/TodolistsList/TodolistsList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/features/TodolistsList/tasks-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/features/TodolistsList/todolists-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/.storybook/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/.storybook/preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/AddItemForm.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/EditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/Task.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/Todolist.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/state/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/state/tasks-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/src/state/todolists-reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/todoFromScratch/todo13v2/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/vanilla/.idea/vanilla.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/vanilla/src/01/tasks/tasks.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/vanilla/src/01/tasks/tasks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/vanilla/src/02/02.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/vanilla/src/02/02.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../it-incubator/vanilla/src/02/02_02.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../newtodo/.idea/newtodo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/Portfolio/src/images/face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Ava.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Ava.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Contacts.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Content.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Content.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Nav.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Nav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Project.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Projects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Sidebar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Skill.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/components/Skills.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/pic/face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../portfolio/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../seasons/.idea/seasons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/.idea/todosandbox.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/Components/MemoTrain.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/tasks.test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/src/tasks.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../todosandbox/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28ppJus49RkASEMtsuXzQmWjHpQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/componetnts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/componetnts" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6a7dc46-a0a2-4d5f-a526-feb3d4b36857" name="Changes" comment="" />
+      <created>1651923313478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651923313478</updated>
+      <workItem from="1651923315919" duration="5558000" />
+      <workItem from="1651949106109" duration="2355000" />
+      <workItem from="1651951492690" duration="15088000" />
+      <workItem from="1652033771339" duration="925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
