@@ -1,4 +1,6 @@
-
+div{
+    margin-bottom: 5px;
+}
 .cardContainer {
     margin: 5px auto;
     width: 190px;
@@ -14,7 +16,8 @@
 }
 
 .buttonsSection {
-    padding-bottom: 7px;
+  position: relative;
+    margin-bottom: 25px;
 }
 
 .delButton {
@@ -22,14 +25,16 @@
     border-radius: 5px;
     color: white;
     border: 1px solid white;
-    margin-left: 125px;
-    height: 100%;
+
+    position: absolute;
+    right: 0;
 }
 
 .editButton {
     background-color: deepskyblue;
     color: white;
-    height: 100%;
+    position: absolute;
+    left: 0;
     border-radius: 5px;
     border: 1px solid white;
 }

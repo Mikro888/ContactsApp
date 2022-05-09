@@ -1,7 +1,7 @@
 import {ChangeEvent, ChangeEventHandler, useState} from "react";
 
 type SearchContactType = {
-    setSearchMode: any
+    setSearchMode: any  //fix any
     setSearchItem: any
     searchItem: string
 }

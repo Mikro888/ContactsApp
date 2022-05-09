@@ -18,7 +18,7 @@ export const Contacts = (props: ContactsPropsType) => {
     const offEditMode = () => {
         setAddMode(false)
     }
-    let contactsForRender = props.contacts
+    let contactsForRender
     if (searchItem !== '') {
         contactsForRender = props.contacts.filter((str, i) =>
             str.name.toLowerCase().includes(searchItem.toLowerCase()))
@@ -33,7 +33,7 @@ export const Contacts = (props: ContactsPropsType) => {
         {addMode ?
             <AddItemForm callBack={props.addContact}
                          offEditMode={offEditMode}
-                         placeholder={'Add contact'}
+                         placeholder={'Name'}
             /> :
             <button onClick={() => setAddMode(true)}>+</button>}
         {addMode || <SearchContact
@@ -41,19 +41,6 @@ export const Contacts = (props: ContactsPropsType) => {
             setSearchItem={setSearchItem}
             searchItem={searchItem}
         />}
-        {/*<ul>*/}
-        {/*    {*/}
-        {/*        contactsForRender.map((c: ContactType) => {*/}
-        {/*            return <li key={c.id}>*/}
-        {/*                <EditableSpan id={c.id} title={c.name}*/}
-        {/*                              callBack={props.editContact}/>*/}
-        {/*                <button onClick={() => props.removeContact(c.id)}*/}
-        {/*                >x*/}
-        {/*                </button>*/}
-        {/*            </li>*/}
-        {/*        })*/}
-        {/*    }*/}
-        {/*</ul>*/}
         {contactsForRender.map((c:ContactType)=>{
             return <Card key={c.id}  id={c.id} title={c.name} phone={c.phone} email={c.email} callBack={props.editContact} removeContact={props.removeContact}/>
         })}

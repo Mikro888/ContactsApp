@@ -5,10 +5,26 @@ body{
   text-align: center;
 
 }
+.cardContainer {
+  margin: 5px auto;
+  width: 190px;
+  /*box-sizing: border-box;*/
+  height: fit-content;
+  overflow: auto;
+  background-color: deepskyblue;
+  color: white;
 
+  text-align: left;
+  padding: 8px;
+  border-radius: 5px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.error-message{
+  color: red;
+  font-weight: bolder;
 }
 
 @media (prefers-reduced-motion: no-preference) {
