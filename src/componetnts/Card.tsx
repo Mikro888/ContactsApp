@@ -37,15 +37,19 @@ export const Card = (props: CardPropsType) => {
     }
     return (
         <div className={classes.cardContainer}
-             // onClick={editModeOff}
             onKeyPress={onKeyPressHandler}
         >
-            <button className={classes.delButton}
-                    onClick={deleteContactHandler}>x
-            </button>
-            <button className={classes.editButton}
-                    onClick={toggleEditModeHandler}>{editButtonContent}
-            </button>
+            <div className={classes.buttonsSection}>
+                <button className={classes.editButton}
+                        onClick={toggleEditModeHandler}>{editButtonContent}
+                </button>
+                <button className={classes.delButton}
+                        onClick={deleteContactHandler}>x
+                </button>
+
+
+            </div>
+
             <div><EditableSpan propName={'Name: '} title={props.title}
                                callBack={props.callBack} id={props.id}
                                editMode={editMode}
