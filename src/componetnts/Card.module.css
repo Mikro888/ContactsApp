@@ -1,0 +1,33 @@
+.cardContainer {
+    margin: 5px auto;
+    width: 190px;
+    height: fit-content;
+    overflow: auto;
+    background-color: deepskyblue;
+    color: white;
+    position: relative;
+    text-align: left;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.delButton {
+    background-color: deepskyblue;
+    border-radius: 5px;
+    color: white;
+    /*border: none;*/
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    padding-bottom: 2px;
+    border: 1px solid white;
+}
+.editButton{
+    background-color: darkseagreen;
+    color: white;
+    border: none;
+}
+
+.delButton:hover {
+    background-color: orangered;
+}

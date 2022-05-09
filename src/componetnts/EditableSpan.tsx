@@ -4,6 +4,9 @@ type EditableSpanPropsType = {
     title: string
     callBack: (id: string, title: string) => void
     id: string
+    propName:string
+    editMode:boolean
+    toggleEditMode:(value:boolean)=>void
 }
 
 export function EditableSpan(props: EditableSpanPropsType) {
@@ -14,10 +17,10 @@ export function EditableSpan(props: EditableSpanPropsType) {
         setTitle(e.currentTarget.value)
     }
     const onEditMode = () => {
-        toggleEditMode(true)
+        toggleEditMode(props.editMode)
     }
     const offEditMode = () => {
-        if (title.trim() === '') return
+        if (title.trim() === ''&&props.propName==='Name: ') return
         toggleEditMode(false)
         props.callBack(props.id, title)
     }
@@ -28,8 +31,10 @@ export function EditableSpan(props: EditableSpanPropsType) {
         }
     }
     return <>
-        {!editMode ?
-            <span onDoubleClick={onEditMode}>{title}</span> :
+        {!props.editMode ?
+
+            <div onDoubleClick={onEditMode}>{props.propName}<span >{title}</span></div> :
+
             <input autoFocus={true} value={title} onBlur={offEditMode}
                    onChange={changeTitleHandler}
                    onKeyPress={onKeyPressHandler}

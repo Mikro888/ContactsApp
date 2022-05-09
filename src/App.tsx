@@ -13,15 +13,17 @@ import {
 export type ContactType = {
     id: string,
     name: string
+    phone: string
+    email: string
 }
 
 function App() {
     const dispatch = useDispatch()
     const contacts = useSelector<AppRootState, Array<ContactType>>(state => state.contacts)
 
-    const addContact = (title: string) => {
+    const addContact = (title: string, phone: string, email: string) => {
         let newId = uniqid()
-        dispatch(addContactAC(newId, title))
+        dispatch(addContactAC(newId, title, phone, email))
     }
     const removeContact = (id: string) => {
         dispatch(deleteContactAC(id))
@@ -39,7 +41,8 @@ function App() {
                                 removeContact={removeContact}
                                 addContact={addContact}
                                 editContact={editContact}
-                /> :
+                />
+                :
                 <Login auth={authHandler}/>}
         </div>
     )
