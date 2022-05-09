@@ -26,6 +26,10 @@ export const Card = (props: CardPropsType) => {
         setEditButtonContent('edit')
 
     }
+    const deleteContactHandler = () =>{
+    props.removeContact(props.id)
+    }
+
     const onKeyPressHandler = (e: KeyboardEvent<HTMLInputElement>) => {
         if (e.charCode === 13) {
             editModeOff()
@@ -37,7 +41,7 @@ export const Card = (props: CardPropsType) => {
             onKeyPress={onKeyPressHandler}
         >
             <button className={classes.delButton}
-                    onClick={editModeOn}>x
+                    onClick={deleteContactHandler}>x
             </button>
             <button className={classes.editButton}
                     onClick={toggleEditModeHandler}>{editButtonContent}
